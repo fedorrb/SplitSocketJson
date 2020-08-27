@@ -1,0 +1,6 @@
+debug/
+*.ncb
+*.suo
+MegeBookmarks/Debug
+*.ilk
+*.pdb
